@@ -1,0 +1,7 @@
+{
+  "name": "PhotoDocMobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
